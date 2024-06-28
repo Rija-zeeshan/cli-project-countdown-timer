@@ -1,0 +1,18 @@
+{
+  "name": "cli-project-countdown-timer",
+  "version": "1.0.0",
+  "description": "A customizable countdown timer app that helps users track and manage time effectively for various tasks and events.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  }
+}
